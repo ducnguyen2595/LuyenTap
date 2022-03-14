@@ -5,3 +5,5 @@
 9 Mar: [3Sum Closest](https://leetcode.com/problems/3sum-closest/)
 
 14 Mar: [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+
+16 Mar: [Lfu cache](https://leetcode.com/problems/lfu-cache/)
