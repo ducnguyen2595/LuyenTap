@@ -7,3 +7,5 @@
 14 Mar: [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 
 16 Mar: [Lfu cache](https://leetcode.com/problems/lfu-cache/)
+
+18 Mar: [Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/)
