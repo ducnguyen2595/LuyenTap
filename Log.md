@@ -9,3 +9,5 @@
 16 Mar: [Lfu cache](https://leetcode.com/problems/lfu-cache/)
 
 18 Mar: [Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/)
+
+21 Mar: [Decode Ways] (https://leetcode.com/problems/decode-ways/)
