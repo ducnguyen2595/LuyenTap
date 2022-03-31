@@ -15,3 +15,5 @@
 23 Mar: [Partition Labels](https://leetcode.com/problems/partition-labels/)
 
 28 Mar: [Broken Calculator](https://leetcode.com/problems/broken-calculator/)
+
+1 Apr: [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) + [Min Cost Climbing Stairs 2] https://leetcode.com/problems/min-cost-climbing-stairs/
