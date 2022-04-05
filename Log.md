@@ -17,3 +17,5 @@
 28 Mar: [Broken Calculator](https://leetcode.com/problems/broken-calculator/)
 
 1 Apr: [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) + [Min Cost Climbing Stairs 2](https://leetcode.com/problems/min-cost-climbing-stairs/)
+
+8 Apr: [Robber](https://leetcode.com/problems/house-robber/) + [Robber 2](https://leetcode.com/problems/house-robber-ii/)
