@@ -3,7 +3,7 @@ Cache: Imagine a web server for a simplified search engine. This system has 100 
 [Cracking the Coding Interview pg145](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
 
 
-22 Apr:
+[22 Apr]
 Sales Rank: A large eCommerce company wishes to list the best-selling products, overall and by category. For example, one product might be the #1056th best-selling product overall but #13th best-selling product under "Sport and Equiqment" and the #24th best-selling product under "Safety". Describe how you would design this system
 
 [Cracking the Coding Interview pg145](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
