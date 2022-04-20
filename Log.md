@@ -21,5 +21,6 @@
 8 Apr: [Robber](https://leetcode.com/problems/house-robber/) + [Robber 2](https://leetcode.com/problems/house-robber-ii/)
 
 15 Apr: [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) + [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+=> A Hưng không làm, nợ 1 kèo cafe. 
 
 18 Apr: [Jump Game](https://leetcode.com/problems/jump-game/) + [Delete and Earn](https://leetcode.com/problems/delete-and-earn/)
