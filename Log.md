@@ -26,3 +26,5 @@
 18 Apr: [Jump Game](https://leetcode.com/problems/jump-game/) + [Delete and Earn](https://leetcode.com/problems/delete-and-earn/)
 
 22 Apr: [Maximum Length of Subarray With Positive Product](https://leetcode.com/problems/maximum-length-of-subarray-with-positive-product/)
+
+4 May: [Maximum Building Height](https://leetcode.com/problems/maximum-building-height/) + [Perfect Rectangle](https://leetcode.com/problems/perfect-rectangle/)
